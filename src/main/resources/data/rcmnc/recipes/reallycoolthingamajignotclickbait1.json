@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    " B "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "rcmnc:reallycoolblocknotclickbait"
+    }
+  },
+  "result": {
+    "item": "rcmnc:reallycoolthingamajignotclickbait"
+  }
+}

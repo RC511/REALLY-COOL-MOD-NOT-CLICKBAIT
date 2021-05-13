@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EEE",
+		" C ",
+		" I "
+		],
+	"key": {
+		"E": {
+			"item": "minecraft:emerald"
+		},
+		"C": {
+			"item": "minecraft:golden_chestplate"
+		},
+		"I": {
+			"item": "rcmnc:reallycoolitemnotclickbait"
+		}
+	},
+	"result": {
+		"item": "rcmnc:reallycoolthingamajignotclickbait"
+	}
+}

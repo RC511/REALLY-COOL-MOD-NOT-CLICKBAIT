@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory
+license="All rights reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]] #mandatory
+modId="rcmnc" #mandatory
+version="1.16.5-0.0.1.0" #mandatory
+displayName="REALLY COOL MOD NOT CLICKBAIT" #mandatory
+#displayURL="https://www.youtube.com/channel/UCpicl7K8smWI6JCOIRvF5nw" #optional
+#logoFile="reallycoolthingamajignotclickbait.png" #optional
+#credits="Made by REALLY COOL GUY" #optional
+authors="RC511" #optional
+description='''
+peepeepoopoo
+'''
