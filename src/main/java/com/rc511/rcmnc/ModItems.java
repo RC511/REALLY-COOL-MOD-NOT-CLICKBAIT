@@ -1,11 +1,11 @@
 package com.rc511.rcmnc;
 
+import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.item.ArmorItem;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.SwordItem;
-import net.minecraft.item.ToolItem;
 import net.minecraftforge.common.ToolType;
 import net.minecraftforge.fml.RegistryObject;
 
@@ -35,5 +35,29 @@ public class ModItems {
 					.addToolType(ToolType.SHOVEL, 5)
 					)
 			);
+	
+	public static final RegistryObject<ArmorItem> REALLYCOOLHELMETNOTCLICKBAIT = RegistryHandler.ITEMS.register(
+			"reallycoolhelmetnotclickbait", () ->
+			new ModArmorItem(ModArmorMaterial.REALLYCOOLMATERIALNOTCLICKBAIT, EquipmentSlotType.HEAD, (new Item.Properties())
+					.tab(ItemGroup.TAB_COMBAT)
+					.fireResistant()));
+	
+	public static final RegistryObject<ArmorItem> REALLYCOOLCHESTPLATENOTCLICKBAIT = RegistryHandler.ITEMS.register(
+			"reallycoolchestplatenotclickbait", () ->
+			new ModArmorItem(ModArmorMaterial.REALLYCOOLMATERIALNOTCLICKBAIT, EquipmentSlotType.CHEST, (new Item.Properties())
+					.tab(ItemGroup.TAB_COMBAT)
+					.fireResistant()));
+	
+	public static final RegistryObject<ArmorItem> REALLYCOOLLEGGINGSNOTCLICKBAIT = RegistryHandler.ITEMS.register(
+			"reallycoolleggingsnotclickbait", () ->
+			new ModArmorItem(ModArmorMaterial.REALLYCOOLMATERIALNOTCLICKBAIT, EquipmentSlotType.LEGS, (new Item.Properties())
+					.tab(ItemGroup.TAB_COMBAT)
+					.fireResistant()));
+	
+	public static final RegistryObject<ArmorItem> REALLYCOOLBOOTSNOTCLICKBAIT = RegistryHandler.ITEMS.register(
+			"reallycoolbootsnotclickbait", () ->
+			new ModArmorItem(ModArmorMaterial.REALLYCOOLMATERIALNOTCLICKBAIT, EquipmentSlotType.FEET, (new Item.Properties())
+					.tab(ItemGroup.TAB_COMBAT)
+					.fireResistant()));
 	
 }

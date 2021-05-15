@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GDG",
+    "DID",
+    "DDD"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "I": {
+      "item": "rcmnc:reallycoolitemnotclickbait"
+    }
+  },
+  "result": {
+    "item": "rcmnc:reallycoolchestplatenotclickbait"
+  }
+}

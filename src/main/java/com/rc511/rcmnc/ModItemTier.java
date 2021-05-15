@@ -5,7 +5,7 @@ import net.minecraft.item.IItemTier;
 import net.minecraft.item.crafting.Ingredient;
 
 public enum ModItemTier implements IItemTier {
-	REALLYCOOLMATERIALNOTCLICKBAIT(5, 89654, 10.0f, 10.0f, 25, () ->
+	REALLYCOOLMATERIALNOTCLICKBAIT(5, 13589, 10.0f, 10.0f, 25, () ->
 	{return Ingredient.of(ModItems.REALLYCOOLITEMNOTCLICKBAIT.get());}
 	);
 	
