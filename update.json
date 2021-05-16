@@ -1,12 +1,12 @@
 {
 	"homepage": "https://github.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT/releases",
 	"1.16.5": {
-		"0.0.2.0": "- Added Really Cool Armour Set! Not Clickbait!\n- Fixed Really Cool Blocks! Not Clickbait! not dropping when mined.",
-		"0.0.1.0": "- Added Really Cool Item! Not Clickbait!\n- Added Really Cool Thingamajig! Not Clickbait!\n- Added Really Cool Block! Not Clickbait!"
+		"1.16.5-0.0.2.0-forge": "- Added Really Cool Armour Set! Not Clickbait!\n- Fixed Really Cool Blocks! Not Clickbait! not dropping when mined.",
+		"1.16.5-0.0.1.0-forge": "- Added Really Cool Item! Not Clickbait!\n- Added Really Cool Thingamajig! Not Clickbait!\n- Added Really Cool Block! Not Clickbait!"
 	},
 	"promos": {
-		"1.16.5-latest": "0.0.2.0",
-		"1.16.5-recommended": "0.0.2.0"
+		"1.16.5-latest": "1.16.5-0.0.2.0-forge",
+		"1.16.5-recommended": "1.16.5-0.0.2.0-forge"
 	}
 }
 	
