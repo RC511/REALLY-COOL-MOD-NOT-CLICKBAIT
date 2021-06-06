@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "rcmnc:reallycoolitemnotclickbait"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	},
+	{
+	  "item": "minecraft:gold_ingot"
+	}
+  ],
+  "result": {
+    "item": "rcmnc:reallycoolblocknotclickbait",
+    "count": 1
+  }
+}

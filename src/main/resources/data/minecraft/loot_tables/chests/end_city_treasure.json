@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "rcmnc:reallycoolitemnotclickbait"
+        },
+		{
+		  "type": "minecraft:item",
+		  "weight": 2,
+		  "functions": [
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 3.0,
+				"type": "minecraft:uniform"
+			  }
+			}
+		  ],
+		  "name": "rcmnc:reallycoolblocknotclickbait"
+		},
+		{
+		  "type": "minecraft:item",
+		  "weight": 1,
+		  "functions": [
+			{
+			  "function": "minecraft:enchant_with_levels"
+			  "levels": {
+                "min": 20.0,
+                "max": 39.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": true
+			}
+		  ],
+		  "name": "rcmnc:reallycoolthingamajig"
+		}
+      ]
+    }
+  ]
+}

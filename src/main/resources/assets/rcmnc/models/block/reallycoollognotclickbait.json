@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rcmnc:block/reallycoollognotclickbait_top",
+    "side": "rcmnc:block/reallycoollognotclickbait"
+  }
+}

@@ -4,11 +4,11 @@ license="All rights reserved"
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]] #mandatory
 modId="rcmnc" #mandatory
-version="1.16.5-0.0.2.0" #mandatory
+version="1.16.5-0.0.4.0-forge" #mandatory
 displayName="REALLY COOL MOD NOT CLICKBAIT" #mandatory
 displayURL="https://github.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT" #optional
-updateJSONURL="https://github.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT/blob/master/update.json"
-logoFile="reallycoolthingamajignotclickbait.png" #optional
+updateJSONURL="https://raw.githubusercontent.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT/master/update.json"
+logoFile="REALLYCOOLTHINGAMAJIGNOTCLICKBAIT.png" #optional
 #credits="Made by REALLY COOL GUY" #optional
 authors="RC511" #optional
 description='''

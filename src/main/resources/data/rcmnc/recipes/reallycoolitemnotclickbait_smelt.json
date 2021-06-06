@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rcmnc:reallycoolorenotclickbait"
+  },
+  "result": "rcmnc:reallycoolitemnotclickbait",
+  "experience": 2,
+  "cookingtime": 200
+}
