@@ -18,28 +18,20 @@ The Really Cool Armour Set! Not Clickbait! has double the protection of diamond 
 
 Recipes:
 
-EDE
-DG*D = Really Cool Block/Item! Not Clickbait!
-DDD
+EDE DG*D DDD = Really Cool Block/Item! Not Clickbait!
+
 *G is either a gold block or ingot, depending if you want to make a Really Cool Block! Not Clickbait! or a Really Cool Item! Not Clickbait! respectively.
 
-EEE	EEE
- B  or 	 G**	= Really Cool Thingamajig! Not Clickbait!
+EEE B or EEE G** = Really Cool Thingamajig! Not Clickbait!
 	 I
 **G is golden chestplate.
 
-GDG
-GIG = Really Cool Helmet! Not Clickbait!
+GDG GIG = Really Cool Helmet! Not Clickbait!
 
-GDG
-DID = Really Cool Chestplate! Not Clickbait!
-DDD
+GDG DID DDD = Really Cool Chestplate! Not Clickbait!
 
-GDG
-DID = Really Cool Leggings! Not Clickbait!
-D D
+GDG DID D D = Really Cool Leggings! Not Clickbait!
 
-G G
-DID = Really Cool Boots! Not Clickbait!
+G G DID = Really Cool Boots! Not Clickbait!
 
 Generally, G is gold ingot, D is diamond, E is emerald, I is Really Cool Item! Not Clickbait!, and B is Really Cool Block! Not Clickbait! unless otherwise indicated.
