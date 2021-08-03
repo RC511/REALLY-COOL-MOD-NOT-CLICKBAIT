@@ -3,7 +3,7 @@ Or don't. It's not really up to me.
 Just a quick reminder and disclaimer that this is my first ever Minecraft mod!
 Not much is added, and they might not work.
 
-Currently (as of version 1.16.5-0.0.2.0), only 7 items are added into the game:
+Several items are added to the game:
 - Really Cool Item! Not Clickbait!
 - Really Cool Block! Not Clickbait!
 - Really Cool Thingamajig! Not Clickbait!
@@ -17,21 +17,10 @@ The Really Cool Armour Set! Not Clickbait! has double the protection of diamond 
 
 
 Recipes:
+Use JEI. Soz
 
-EDE DG*D DDD = Really Cool Block/Item! Not Clickbait!
-
-*G is either a gold block or ingot, depending if you want to make a Really Cool Block! Not Clickbait! or a Really Cool Item! Not Clickbait! respectively.
-
-EEE B or EEE G** = Really Cool Thingamajig! Not Clickbait!
-	 I
-**G is golden chestplate.
-
-GDG GIG = Really Cool Helmet! Not Clickbait!
-
-GDG DID DDD = Really Cool Chestplate! Not Clickbait!
-
-GDG DID D D = Really Cool Leggings! Not Clickbait!
-
-G G DID = Really Cool Boots! Not Clickbait!
-
-Generally, G is gold ingot, D is diamond, E is emerald, I is Really Cool Item! Not Clickbait!, and B is Really Cool Block! Not Clickbait! unless otherwise indicated.
+Planned things:
+- New dimension + biome
+- New ore
+- New trees
+- and other ambitious things that probably won't get implemented.
