@@ -4,7 +4,7 @@ license="All rights reserved"
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]] #mandatory
 modId="rcmnc" #mandatory
-version="1.16.5-0.0.4.0-forge" #mandatory
+version="1.16.5-0.0.4.1-forge" #mandatory
 displayName="REALLY COOL MOD NOT CLICKBAIT" #mandatory
 displayURL="https://github.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT" #optional
 updateJSONURL="https://raw.githubusercontent.com/RC511/REALLY-COOL-MOD-NOT-CLICKBAIT/master/update.json"
